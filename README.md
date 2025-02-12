@@ -1,2 +1,2 @@
 # VIM-setup
-my vimrc
+my vimrc setup that I use daily.
